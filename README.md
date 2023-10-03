@@ -1,7 +1,16 @@
-[![MasterHead](https://wallpapercave.com/wp/wp2936933.jpg)](https://wallpapercave.com/wp/wp2936933.jpg)
-<h1 align="center">Hi 👋, I'm Mohit Singh</h1>
-<h3 align="center">A passionate Backend Developer with a strong passion for innovation</h3>
 
+<h1 align="center">Hi 👋, I'm Mohit Singh</h1>
+
+
+
+
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/A15H8E1VUh8AAAAM/github-cat.gif">
+
+- ***A passionate Backend Developer with a strong passion for innovation***
+
+- Final Year B.Tech Student from AKGEC, Ghaziyabad
+  
 - 💬 Ask me about **Node.Js, Express.Js, JavaScript, TypeScript, MongoDB**
 
 - 📫 How to reach me **mohitsingh0209g@gmail.com**
