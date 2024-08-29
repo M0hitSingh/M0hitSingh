@@ -9,9 +9,9 @@
 
 - ***A passionate Backend Developer with a strong passion for innovation***
 
-- Final Year B.Tech Student from AKGEC, Ghaziyabad
+- 2024 B.Tech Passout Student from AKGEC, Ghaziyabad
   
-- 💬 Ask me about **Node.Js, Express.Js, JavaScript, TypeScript, MongoDB**
+- 💬 Ask me about **Node.Js, JavaScript, TypeScript, MongoDB, Kafka, Redis**
 
 - 📫 How to reach me **mohitsingh0209g@gmail.com**
 
