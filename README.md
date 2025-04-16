@@ -9,7 +9,7 @@
 
 - ***A passionate Backend Developer with a strong passion for innovation***
 
-- 2024 B.Tech Passout Student from AKGEC, Ghaziyabad
+- 2024 B.Tech Passout Student from AKGEC, Ghaziabad
   
 - 💬 Ask me about **Node.Js, JavaScript, TypeScript, MongoDB, Kafka, Redis**
 
